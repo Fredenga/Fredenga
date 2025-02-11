@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Angular, .NET, Relational Databases, Azure.<br>👯 I’m looking to collaborate on Typescript and C# projects<br>🌱 I’m currently learning C# and the .NET ecosystem<br>💬 Ask me about .NET backend software development<br>⚡ Washing dishes as a way of debugging is underrated
+🔭 I’m currently working on Angular, ASP.NET, and Phoenix LiveView.<br>👯 I’m looking to collaborate on Elixir, Typescript and C# projects<br>🌱 I’m currently learning Elixir, Phoenix LiveView and the BEAM ecosystem<br>💬 Ask me about C# ASP.NET Core and Elixir Phoenix LiveView backend software development<br>⚡ Washing dishes as a way of debugging is underrated
 
 
 ## 🌐 Socials:
